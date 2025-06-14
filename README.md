@@ -56,7 +56,7 @@ streamlit run LoveMatch.py
 ## 🎯 Sample Output
 
 ```
-Enter your name: Alice
+Enter your name: Alice 
 Enter your partner's name: Bob
 
 💘 Love score: 86%
