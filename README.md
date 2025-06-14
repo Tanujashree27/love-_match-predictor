@@ -51,7 +51,7 @@ If you want a simple web interface:
 streamlit run LoveMatch.py
 ```
 
-(You’ll need to convert the notebook into a Python script first.)
+(You’ll need to convert the notebook into a Python script first)
 
 ## 🎯 Sample Output
 
