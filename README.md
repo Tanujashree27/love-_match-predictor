@@ -12,7 +12,7 @@ LoveMatch is a fun and interactive Python project that predicts the "love compat
 
 ## 🧠 How It Works
 
-The love score is randomly generated using `random.randint()` and is combined with conditional statements to assign a custom love message. It’s designed to be unpredictable and fun.
+The love score is randomly generated using `random.randint()` and is combined with conditional statements to assign a custom love message.  It’s designed to be unpredictable and fun.
 
 ## 📁 Project Structure
 
