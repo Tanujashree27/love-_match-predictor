@@ -1,7 +1,7 @@
 
 # 💘 LoveMatch: A Fun Compatibility Predictor
 
-LoveMatch is a fun and interactive Python project that predicts the "love compatibility" between two people based on their names. It uses a simple, rule-based method to generate a love score and match message, making it a light-hearted and engaging app for friends, couples, and curious users.
+LoveMatch is a fun and interactive Python project that predicts the "love compatibility" between two  people based on their names. It uses a simple, rule-based method to generate a love score and match message, making it a light-hearted and engaging app for friends, couples, and curious users.
 
 ## 🚀 Features
 
